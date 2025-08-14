@@ -1,2 +1,2 @@
 # JXcow-Datasets
-datseets
+datasets
