@@ -23,6 +23,7 @@ RGB and 16-bit depth
 Resolution 640×480 at 30 fps
 
 Weight labels: When cattle step onto the weighing platform, an electronic scale records body weight in real time, synchronized with the captured data streams (including camera intrinsics).
+![拍摄设备图_1](https://github.com/user-attachments/assets/648bd417-3842-418d-9389-a4475d7bb06a)
 
 3. Dataset Scale and Statistics
 
@@ -35,6 +36,7 @@ Raw recordings: Each animal has a synchronized sequence of 35–60 s stored as r
 Frame sampling strategy: One frame is kept every 30 frames, and motion blur/occlusion detection is applied to select high-quality RGB–Depth–PointCloud triplets, forming the raw dataset JX-raw.
 
 4. Preprocessing and Cross-Modal Alignment
+![预处理_1](https://github.com/user-attachments/assets/cbf6687b-25f7-4b70-9372-b293bfae719d)
 
 The processed dataset JX-pre is obtained from JX-raw via:
 
