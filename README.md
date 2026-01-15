@@ -19,7 +19,7 @@ Weight labels: When cattle step onto the weighing platform, an electronic scale 
 # 3. Dataset Scale and Statistics
 
 Number of animals: 112 cattle
-Weight range: 430–780 kg (mainly concentrated in 500–700 kg)
+Weight range: 400–800 kg (mainly concentrated in 500–700 kg)
 Raw recordings: Each animal has a synchronized sequence of 35–60 s stored as raw .bag files.
 Frame sampling strategy: One frame is kept every 30 frames, and motion blur/occlusion detection is applied to select high-quality RGB–Depth–PointCloud triplets, forming the raw dataset JX-raw.
 
