@@ -3,7 +3,7 @@ JXCow Dataset: RGB–Depth–Point Cloud Cattle Weight Estimation Dataset<img wi
 
 # 1. Dataset Overview
 
-JXCow dataset link: 
+JXCow dataset link: https://www.kaggle.com/datasets/dcaoren/jxcow-datasets
 
 JXCow is a multimodal beef cattle weight estimation dataset collected in a real farm environment. It includes RGB images, 16-bit depth maps, point clouds, and body-weight labels. The dataset provides pixel-level cross-modal consistency through a pipeline consisting of resolution-adaptive calibration scaling, cross-modal alignment, semantic segmentation, and point cloud pose normalization, enabling research on contactless cattle weight estimation.
 
