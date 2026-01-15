@@ -21,7 +21,7 @@ Weight labels: When cattle step onto the weighing platform, an electronic scale 
 Number of animals: 112 cattle
 Weight range: 400–800 kg (mainly concentrated in 500–700 kg)
 Raw recordings: Each animal has a synchronized sequence of 35–60 s stored as raw .bag files.
-Frame sampling strategy: One frame is kept every 30 frames, and motion blur/occlusion detection is applied to select high-quality RGB–Depth–PointCloud triplets, forming the raw dataset JX-raw.
+Frame sampling strategy: One frame is kept every 30 frames, and motion blur/occlusion detection is applied to select high-quality RGB–Depth–PointCloud triplets, forming the raw dataset JX-raw. Only side-view data are used in this dataset.
 
 # 4.JXcow-Datasets4. Preprocessing and Cross-Modal Alignment
 ![预处理_1](https://github.com/user-attachments/assets/cbf6687b-25f7-4b70-9372-b293bfae719d)
